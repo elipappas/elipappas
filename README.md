@@ -1,6 +1,7 @@
-<h1> Hi, I'm Eli 👋 </h1>
-<h3> Fourth year Computer Science student at the University of Cincinnati </h3> 
-<p> I have recently completed an internship with Siemens PLM Software as a Software Engineer where I primarily used C++ as my primary programming language. I am currently looking for an Internship/Co-op where I can expand my experience and learn something new. Outside of my work, I have exeperience with Python, VBA, HTML, CSS, Next.js, React, Typescript, Tailwind, SQL, and Swift. </p>
+<h1>Hi, I'm Eli 👋</h1>
+<h3>5th Year Computer Science & MBA Student at the University of Cincinnati</h3>
+<p>Experienced in C++, Python, and full-stack development through multiple co-ops with Siemens Digital Industries. 
+I’m passionate about emerging technologies and currently focused on expanding my skills in machine learning and artificial intelligence.</p>
 <!--
 **elipappas/elipappas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
