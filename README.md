@@ -1,6 +1,6 @@
-<h1>Hi, I'm Eli 👋</h1>
+<h1>Hi, I'm Eli </h1>
 <h3>5th Year Computer Science & MBA Student at the University of Cincinnati</h3>
-<p>Experienced in C++, Python, and full-stack development through multiple co-ops with Siemens Digital Industries. 
+<p>Experienced in Python, C++, and full-stack development through multiple co-ops with Siemens Digital Industries. 
 I’m passionate about emerging technologies and currently focused on expanding my skills in machine learning and artificial intelligence.</p>
 <!--
 **elipappas/elipappas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
